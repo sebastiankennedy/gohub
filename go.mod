@@ -5,6 +5,9 @@ go 1.17
 require (
 	github.com/gin-gonic/gin v1.8.1
 	github.com/spf13/cast v1.5.0
+	gorm.io/driver/mysql v1.3.4
+	gorm.io/driver/sqlite v1.3.4
+	gorm.io/gorm v1.23.6
 )
 
 require (
@@ -22,9 +25,6 @@ require (
 	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/subosito/gotenv v1.3.0 // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
-	gorm.io/driver/mysql v1.3.4 // indirect
-	gorm.io/driver/sqlite v1.3.4 // indirect
-	gorm.io/gorm v1.23.6 // indirect
 )
 
 require (
