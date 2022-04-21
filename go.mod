@@ -6,6 +6,8 @@ require (
 	github.com/gin-gonic/gin v1.8.1
 	github.com/spf13/cast v1.5.0
 	github.com/thedevsaddam/govalidator v1.9.10
+	golang.org/x/mobile v0.0.0-20190719004257-d2bd2a29d028
+	gopkg.in/natefinch/lumberjack.v2 v2.0.0
 	gorm.io/driver/mysql v1.3.4
 	gorm.io/driver/sqlite v1.3.4
 	gorm.io/gorm v1.23.6
@@ -27,6 +29,8 @@ require (
 	github.com/subosito/gotenv v1.3.0 // indirect
 	go.uber.org/atomic v1.7.0 // indirect
 	go.uber.org/multierr v1.6.0 // indirect
+	golang.org/x/exp v0.0.0-20200224162631-6cc2880d07d6 // indirect
+	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	gopkg.in/ini.v1 v1.66.4 // indirect
 )
 
